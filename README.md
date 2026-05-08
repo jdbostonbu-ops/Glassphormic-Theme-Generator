@@ -10,7 +10,7 @@ This edition wears its **Glassmorphic** skin — frosted translucent panels, ani
 🚀 **[Visit the Page](https://jdbostonbu-ops.github.io/Glassphormic-Theme-Generator/)*
 
 <p align="center">
-  <img src="glassphormic-favicon.svg" alt="Prism Glassmorphic Edition Demo" width="600">
+  <img src="glassphormic-favicon.svg" alt="Prism Glassmorphic Edition Demo" width="300">
 </p>
 
 ## 🎓 Built During Next Chapter — Phase I
